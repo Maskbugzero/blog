@@ -1,0 +1,5 @@
+# robots.txt
+User-agent: *
+Disallow: 
+Disallow: /img/
+Sitemap: https://blog.5772447.xyz/sitemap.xml
